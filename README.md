@@ -29,6 +29,9 @@ HTTP основан на тексте — сообщения между клие
 
 
 Полезные ссылки:
+
 https://highload.today/protokol-http/
+
 https://habr.com/ru/post/50147/
+
 https://ru.w3docs.com/uchebnik-html/metody-http-zaprosa.html
